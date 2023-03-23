@@ -1,0 +1,18 @@
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.not-image {
+  width: 150px;
+}
+
+.not-heading {
+  font-size: 50px;
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
